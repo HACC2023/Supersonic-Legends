@@ -135,18 +135,6 @@ function queryAskUs(qstring) {
 
 
 
-  /*const fetchData = {
-    method: 'POST',
-    headers: {
-      ...headers,
-      'Authorization': 'Bearer ya29.a0AfB_byBOCrutopSjlel_H6MK3h5Njjhx4-IKiEwfpbx9ezOZlSCSn39XYnGit_p3wzs86u9dwrvO2BBIs4C5ZH1xZwqBZlRqBMlfB2oftUIQdb95sjzvlwYPX2kUuqUcnZ8LI19qg_BGzDFasPiqmp6oGpivwWY5lj98KEzHqW0aCgYKAVUSARMSFQHGX2Miu27FvFGCxf-6zwDYe8fGKA0178',
-    },
-    body: JSON.stringify(data),
-  };
-  console.error(url, JSON.stringify(fetchData))
-  */
-
-
   document.getElementById('message').innerHTML = "<p><b>Attempting to summarize an answer for you...</b></p>";
   fetch(url, fetchData)
     .then(response => response.json())

@@ -15,3 +15,6 @@
   <li>In the "My Extensions" page, the <u>menehune</u> extension should be listed.</li>
   <li>Open the <b>menehune</b> extension by clicking on the browser's side panel icon at the top right.  Once the side panel is visible, select the <b>menehune</b> item from the drop-down menu.  The <b>menehune</b> application should be visible at this point.</li>  
 </ol>
+<video controls="true" allowfullscreen="true">
+  <source src="https://raw.githubusercontent.com/my-username/my-repository/main/my-video.mp4" type="video/mp4">
+</video>

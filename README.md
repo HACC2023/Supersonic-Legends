@@ -1,3 +1,3 @@
-# menehune <sup>small, strong, smart</sup>
+# menehune <sup>small, strong, and smart</sup>
 by Supersonic Legends
 

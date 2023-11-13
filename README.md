@@ -39,7 +39,7 @@
   ]
   </code>
 </p>
-<p><a href="https://github.com/HACC2023/Supersonic-Legends/blob/main/assets/menehune-2-Usage%20Examples-hevcmp4.mp4">Watch this video to see it in action.</a>  At the beginning of the video, you can see prompts being manually input in the text box and sent to the Google AI API.  Responses are returned accodingly.  Later, you see AI prompts being sent automatically in the background to the Google AI API based on the content viewed.  For example:
+<p><a href="https://github.com/HACC2023/Supersonic-Legends/blob/main/assets/menehune-2-Usage%20Examples-hevcmp4.mp4">Watch this video to see it in action.</a> (NOTE: The videos are also available in the assets folder in the repository).  At the beginning of the video, you can see prompts being manually input in the text box and sent to the Google AI API.  Responses are returned accodingly.  Later, you see AI prompts being sent automatically in the background to the Google AI API based on the content viewed.  For example:
   <ul>
     <li>Upon visiting the Laulima page, <b>menehune</b> automatically sent a prompt "What is laulima" to the Google AI API (which is seeded by UH AskUS and infosec policy documents).</li>
     <li>When a login to to Laulima failed, <b>menehuyne</b> automatically sent a prompt "I forgot my laulima password" to the Google AI API which generated relevant summaries and responses.</li>
@@ -67,7 +67,7 @@
   <li>In the "My Extensions" page, the <u>menehune</u> extension should be listed.</li>
   <li>Open the <b>menehune</b> extension by clicking on the browser's side panel icon at the top right.  Once the side panel is visible, select the <b>menehune</b> item from the drop-down menu.  The <b>menehune</b> application should be visible at this point.</li>  
 </ol>
-<p>View this <a href="https://github.com/HACC2023/Supersonic-Legends/blob/main/assets/menehune-1-Installation-hevcmp4.mp4">Installation Video.</a></p>
+<p>View this <a href="https://github.com/HACC2023/Supersonic-Legends/blob/main/assets/menehune-1-Installation-hevcmp4.mp4">Installation Video.</a>  (NOTE: The videos are also available in the assets folder in the repository).</p>
 <h2>Known Issues</h2>
 <h3>2023-11-12</h3>
 <ul>

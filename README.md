@@ -18,3 +18,7 @@
 <video controls="true" allowfullscreen="true">
   <source src="https://github.com/HACC2023/Supersonic-Legends/blob/main/assets/menehune-1-Installation-hevcmp4.mp4" type="video/mp4">
 </video>
+
+
+https://github.com/HACC2023/Supersonic-Legends/assets/128585085/788214cf-0112-48b9-8e51-b6d5475cbef7
+

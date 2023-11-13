@@ -4,7 +4,13 @@
 <p>This prototype version of this application specializes in UH Information Technology Services support and UH Information Security Policies.</p>
 <h2>Overview</h2>
 <p><b>menehune</b> is an extension (Google Chrome) to your web browser that constantly monitors what you are viewing.  <b>menehune</b> is tuned to look for specific keywords in the pages called "special text".  The "special text" is associated with a specially crafted Google AI prompt relevant to "hawaii.edu" webpage the user is viewing.  That prompt is automatically sent to the Google AI service (Seach and Conversation).  Google AI summarizes a response from the database of UH ITS AskUS webpages and UH information security policies.  The AI-generated summary response and citations to relevant documents are returned and displayed in the web browser extension.</p>
-<p><a href="https://github.com/HACC2023/Supersonic-Legends/blob/main/assets/menehune-2-Usage%20Examples-hevcmp4.mp4">Watch this video to see it in action.</a></p>
+<p><a href="https://github.com/HACC2023/Supersonic-Legends/blob/main/assets/menehune-2-Usage%20Examples-hevcmp4.mp4">Watch this video to see it in action.</a>  At the beginning of the video, you can see prompts being manually input in the text box and sent to the Google AI API.  Responses are returned accodingly.  Later, you see AI prompts being sent automatically in the background to the Google AI API based on the content viewed.  For example:
+  <ul>
+    <li>Upon visiting the Laulima page, <b>menehune</b> automatically sent a prompt "What is laulima" to the Google AI API (which is seeded by UH AskUS and infosec policy documents).</li>
+    <li>When a login to to Laulima failed, <b>menehuyne</b> automatically sent a prompt "I forgot my laulima password" to the Google AI API which generated relevant summaries and responses.</li>
+    <li>When the user visited a page with "credit card" in the page, <b>menehune</b> automatically sent a prompt "is uh pci compliant?" to the Google AI API to generate relevant summaries and links to relevant policies.</li>
+  </ul>
+</p>
 <h2>Installation</h2>
 <ol>
   <li>Download the <u>menehune</u> folder with all its files.</li>

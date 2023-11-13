@@ -16,6 +16,7 @@
   <li>I want direct answers.  I know I am talking to a machine.  Just give me relevant results and don't simulate a human.</li>
   <li>The assistant needs to provide answers automatically as much as possible.  I am not interested in conversing or having to develop the "right" question to get the "right" answer.</li>
   <li>I really don't want to call anyone.</li>
+  <li>Detect what's wrong and give me a reason or solution.</li>
 </ol>
 <h2>Why This Technical Approach</h2>
 <p>Google AI API (Search and Conversation) was used to ensure responses were limited to the information in the specific data provided: UH AskUS files and information security policies.  All results needed to be UH specific and not bring in other resources not directly from UH.  We had tested Microsoft's Power Virtual Agents and ChatBots.  The Google AI API was slightly simpler to use in this short amount of time specifically relating to authentication and permissions.  Microsoft's tool would likely be more appropriate for an enterprise heavily invested in the Microsoft 365 cloud services.</p>

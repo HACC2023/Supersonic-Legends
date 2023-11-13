@@ -17,4 +17,9 @@
   <li>Open the <b>menehune</b> extension by clicking on the browser's side panel icon at the top right.  Once the side panel is visible, select the <b>menehune</b> item from the drop-down menu.  The <b>menehune</b> application should be visible at this point.</li>  
 </ol>
 <p>View this <a href="https://github.com/HACC2023/Supersonic-Legends/blob/main/assets/menehune-1-Installation-hevcmp4.mp4">Installation Video.</a></p>
-
+<h2>Known Issues</h2>
+<h3>2023-11-12</h3>
+<ul>
+  <li>Google API Rate Limits: Due to the level of subscription, requests to the Google API are limited and when they are exceeded, responses will not be returned.  If you make too many requests to the API in a minute, it is stops returning results.  Therefore, wait at least five (5) seconds in between requests to ensure the rate limit is not hit.  You can verify that the rate limit is the reason for the lack of responses by pointing your browser to "chrome://extensions" and viewing the "Errors" in the <b>menehune</b> extension.</li>
+  <li>Sometimes, the prompt in the AskUs text area (where you input the prompt) is not refreshed when responses are updated.  This usually happens with the prompts sent in the background when a page is refreshed (versus when you manually press on the AskUs button).  It does not impact the results.</li>
+</ul>
